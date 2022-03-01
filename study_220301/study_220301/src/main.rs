@@ -1,4 +1,4 @@
-fn summation(a: i8, b: i8, k: i8) -> i8{ //이 화살표와 출력값을 적어주지 않으면 에러가 발생
+fn summation(a: i8, b: i8, k: i8) -> i8{ //이 화살표와 출력타입을 적어주지 않으면 에러가 발생
     let z = a+b-k;
     return z
 }
