@@ -1,0 +1,1 @@
+C:\Users\KimTaeHa\Desktop\Rust_studying\TH.Rust\study_220302\data_structure_rust\target\debug\data_structure_rust.exe: C:\Users\KimTaeHa\Desktop\Rust_studying\TH.Rust\study_220302\data_structure_rust\src\main.rs
